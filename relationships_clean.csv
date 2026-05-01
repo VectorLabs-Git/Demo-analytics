@@ -1,6 +1,0 @@
-from_id,to_id,relation,score
-S1,C1,STRONG_IN,0.73
-S1,C2,WEAK_IN,0.52
-S1,C3,WEAK_IN,0.28
-S1,C4,STRONG_IN,0.82
-S1,C5,STRONG_IN,0.63
